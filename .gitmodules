@@ -1,0 +1,6 @@
+[submodule "back"]
+	path = back
+	url = https://github.com/Vvalentinaperez/back.git
+[submodule "client"]
+	path = client
+	url = https://github.com/Vvalentinaperez/front.git
